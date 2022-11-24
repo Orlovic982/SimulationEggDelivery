@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B75B1FC5-E9A4-7ABF-7F80-8C39B8DF84D4}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Camera3Movement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Camera2Movement.cs" />
+      <File FileName="Assets/Scripts/Camera3Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChangeCamera.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimulationEggDelivery" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d7f8b72e-7ba4-454d-9ed1-88fe353e6221" />
+</Properties>
